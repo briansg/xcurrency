@@ -4,4 +4,4 @@ Currency converter in Flutter :) by Brian Gora
 
 ## Getting Started
 
-No special instructions are needed just install dependencies an run.
+No special instructions are needed, just install dependencies and run.
